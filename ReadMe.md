@@ -6655,7 +6655,7 @@ author.forEach((c)=>{console.log(c)});
 
 | Project 1                                              | Project 2                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ha7darov&repo=olcha.uz&theme=highcontrast)](https://github.com/ha7darov/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ha7darov&repo=Zlatmax&theme=highcontrast)](https://github.com/ha7darov/Zlatmax) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=highcontrast)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=highcontrast)](https://github.com/jasurhaydarovcode/Zlatmax) |
 
 
 <br>
@@ -6667,14 +6667,14 @@ author.forEach((c)=>{console.log(c)});
     <summary>📊 GitHub Stats:</summary>
     <br>
     
-   ![](https://github-readme-stats.vercel.app/api?username=ha7darov&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
+   ![](https://github-readme-stats.vercel.app/api?username=jasurhaydarovcode&theme=radical&hide_border=false&include_all_commits=false&count_private=true)
    
    <br>
 
 
 | Most Used Languages                                              | 🔝 Top Contributed Repo                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ha7darov&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=ha7darov&limit=5&theme=radical&combine_all_yearly_contributions=true) |
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasurhaydarovcode&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=jasurhaydarovcode&limit=5&theme=radical&combine_all_yearly_contributions=true) |
 </details> 
 <!-- PressDown Funcktion END -->
 
