@@ -6655,7 +6655,7 @@ author.forEach((c)=>{console.log(c)});
 
 | Project 1                                              | Project 2                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=highcontrast)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=highcontrast)](https://github.com/jasurhaydarovcode/Zlatmax) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Zlatmax) |
 
 
 <br>
