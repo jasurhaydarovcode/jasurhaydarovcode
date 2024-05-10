@@ -6611,7 +6611,7 @@
 ] -->
 
 
-<div align=center>
+<div align="center">
 
 <img src="./svg/mind.svg">
 
@@ -6619,6 +6619,17 @@
 
 # Hi There, I'm [**`JASUR`**](https://t.me/KanYonA) <img src="./image/mini-logo.gif" alt="logo mini" width=40px>
 
+<!--! LINE  -->
+<img src="./image/line.gif">
+<!--! LINE -->
+
+## 🔗 Links
+
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KanyonA) 
+[![gmail](https://img.shields.io/badge/gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white)](https://jasurhaydarovcode@gmail.com) 
+
+<!-- ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
 
 
 ### Code
