@@ -6664,11 +6664,7 @@ author.forEach((c)=>{console.log(c)});
 
 # Projects
 
-| Project 1                                              | Project 2  Cooming soon to public                                             |
-| --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Mobile-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Mobile-UI-screens) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Web-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Web-UI-screens) |
-
-| Project 3                                              | Project 4                                               |
+| Project 1                                              | Project 2                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Zlatmax) |
 
