@@ -6652,7 +6652,7 @@ author.forEach((c)=>{console.log(c)});
 # *Skills*
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,md,bootstrap,tailwind,nodejs,react,svg)
 
-![My Skills](https://skillicons.dev/icons?i=vscode,windows,git,github,bash,npm,kali,netlify,vercel,figma,pycharm)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bash,npm,kali,netlify,vercel,figma,pycharm)
 </div>
 
 
