@@ -6672,8 +6672,8 @@ const JasurHaydarov = {
 
 # *Skills*
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,md,bootstrap,tailwind,nodejs,react,svg)
-
-![My Skills](https://skillicons.dev/icons?i=vscode,git,github,bash,npm,kali,netlify,vercel,figma,pycharm)
+<!-- babel -->
+![My Skills](https://skillicons.dev/icons?i=cs,git,github,bash,npm,netlify,vercel,figma,pycharm)
 </div>
 
 
