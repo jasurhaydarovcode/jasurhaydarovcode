@@ -6632,12 +6632,33 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
 
 
-### Code
-```js
-const author = [ 'J', 'a', 's', 'u', 'r' ];
+<!-- const author = [ 'J', 'a', 's', 'u', 'r' ]; -->
+<!-- author.forEach((c)=>{console.log(c)}); -->
 
-author.forEach((c)=>{console.log(c)});
+### Code
+<div align="left">
+
+```js
+const JasurHaydarov = {
+
+
+    stack: {
+        frontEnd: {
+            tools : ["html", "css", "javascript", "json", "reactJs", "npm", "..."],
+            bundlers: ["Parcel"],
+            nextLearn: ["yarn", "babel", "webpack", "gulp", "grunt"],
+        },
+    },
+
+
+    hobbies: ["learning new technologies", "watch films","listening to music"],
+
+
+    interests: ["gitHub", "json", "learn frameworks and libraries"],
+};
 ```
+
+</div>
 
 
 
