@@ -6644,7 +6644,7 @@ const JasurHaydarov = {
 
     stack: {
         frontEnd: {
-            tools : ["html", "css", "javascript", "json", "reactJs", "npm", "..."],
+            tools : ["html", "css", "javascript", "bulma", "json", "reactJs", "npm", "..."],
             bundlers: ["Parcel"],
             nextLearn: ["yarn", "babel", "webpack", "gulp", "grunt"],
         },
@@ -6671,9 +6671,9 @@ const JasurHaydarov = {
 <div align=center>
 
 # *Skills*
-![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,md,bootstrap,tailwind,nodejs,react,svg)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,md,bootstrap,tailwind,nodejs,react,svg&theme=light)
 <!-- babel -->
-![My Skills](https://skillicons.dev/icons?i=cs,git,github,bash,npm,netlify,vercel,figma,pycharm)
+![My Skills](https://skillicons.dev/icons?i=express,cs,git,github,bash,npm,netlify,vercel,figma,pycharm&theme=light)
 </div>
 
 
