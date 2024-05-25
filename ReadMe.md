@@ -6648,6 +6648,10 @@ const JasurHaydarov = {
             bundlers: ["Parcel"],
             nextLearn: ["yarn", "babel", "webpack", "gulp", "grunt"],
         },
+        backEnd: {
+            tools: ["NodeJs", "ExpressJs", "nodemon"],
+            learn: ["ExpressJs", "dotenv", "uuid"] 
+        },
     },
 
 
