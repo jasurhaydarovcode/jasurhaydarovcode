@@ -6644,7 +6644,7 @@ const JasurHaydarov = {
 
     stack: {
         frontEnd: {
-            tools : ["html", "css", "javascript", "bulma", "json", "reactJs", "npm", "..."],
+            tools : ["html", "css", "javascript", "bulma", "reactJs", "npm", "..."],
             bundlers: ["Parcel"],
             nextLearn: ["yarn", "babel", "webpack", "gulp", "grunt"],
         },

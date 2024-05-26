@@ -43,7 +43,8 @@
 					text-align: center;
 					background: rgb(2, 0, 36);
 					/* background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(219, 35, 41, 1) 15%, rgba(14, 255, 0, 1) 100%); */
-					background: repeating-conic-gradient(red 10%, yellow 20%);
+					/* background: repeating-conic-gradient(red 10%, yellow 20%); */
+					background: repeating-conic-gradient(lime 10%, black 20%);
 					background-size: 200%;
 					background-clip: text;
 					-webkit-background-clip: text;
@@ -184,7 +185,9 @@
 					animation-delay: 3s, 1.5s
 				}
 			</style>
+			<!-- Asilbek chopseng g'irt ko'tsan -->
 			<h1>Jasurbek Haydarov</h1>
+			<!-- Asilbek chopseng g'irt ko'tsan -->
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
 			<div xmlns="http://www.w3.org/1999/xhtml" class="snowflake">❅</div>
