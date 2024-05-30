@@ -6967,6 +6967,7 @@
 <div align=center>
 
 # *Skills*
+### Front End
 <!-- ![My Skills](https://skillicons.dev/icons?i=html,css,js,pug,sass,md,bootstrap,tailwind,nodejs,react,svg) -->
 <!-- babel -->
 <!-- ![My Skills](https://skillicons.dev/icons?i=express,cs,git,github,bash,npm,netlify,vercel,figma,pycharm) -->
@@ -6985,10 +6986,11 @@
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![Parcel](https://img.shields.io/badge/Parcel-43853D?style=for-the-badge&logo=parcel&logoColor=white)
+
 
 
 
@@ -6997,12 +6999,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Hosting & Domen
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white)
+![@Host](https://img.shields.io/badge/%40Host-000000?style=for-the-badge&logo=server&logoColor=white)
+
+
+### Prompt Engineering
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Bard](https://img.shields.io/badge/Bard-FF9800?style=for-the-badge&logo=google&logoColor=white)
 
+### NodeJs
 
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -7010,6 +7020,7 @@
 ![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 ![UUID](https://img.shields.io/badge/UUID-ffffff?style=for-the-badge&logo=uuid&logoColor=black)
 
+### Data Base
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 </div>
 
