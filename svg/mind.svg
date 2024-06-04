@@ -43,9 +43,9 @@
 					text-align: center;
 					background: rgb(2, 0, 36);
 					/* background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(219, 35, 41, 1) 15%, rgba(14, 255, 0, 1) 100%); */
-					/* background: repeating-conic-gradient(red 10%, yellow 20%); */
+					background: repeating-conic-gradient(red 10%, yellow 20%);
 					/* background: repeating-conic-gradient(lime 10%, black 20%); */
-					background: repeating-conic-gradient(lime 10%, #0D1117 20%, black 30%);
+					/* background: repeating-conic-gradient(lime 10%, #0D1117 20%, black 30%); */
 
 					background-size: 200%;
 					background-clip: text;

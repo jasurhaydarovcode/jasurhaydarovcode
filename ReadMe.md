@@ -7005,12 +7005,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white)
 ![@Host](https://img.shields.io/badge/%40Host-000000?style=for-the-badge&logo=server&logoColor=white)
-
-
-### Prompt Engineering
-
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Bard](https://img.shields.io/badge/Bard-FF9800?style=for-the-badge&logo=google&logoColor=white)
 
 ### NodeJs
 
@@ -7019,6 +7014,8 @@
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 ![UUID](https://img.shields.io/badge/UUID-ffffff?style=for-the-badge&logo=uuid&logoColor=black)
+![Handlebars.js](https://img.shields.io/badge/Handlebars.js-black?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+
 
 ### Data Base
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -7035,7 +7032,7 @@
 
 | Project 1                                              | Project 2                                             |
 | --------------------------------------------------- | --------------------------------------------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Mobile-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Mobile-UI-screens) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Web-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Web-UI-screens) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Mobile-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Mobile-UI-screens) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=diarybook&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/diarybook) |
 
 | Project 3                                              | Project 4                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
