@@ -7005,7 +7005,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white)
 ![@Host](https://img.shields.io/badge/%40Host-000000?style=for-the-badge&logo=server&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
 ### NodeJs
 
@@ -7014,7 +7013,7 @@
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
 ![UUID](https://img.shields.io/badge/UUID-ffffff?style=for-the-badge&logo=uuid&logoColor=black)
-![Handlebars.js](https://img.shields.io/badge/Handlebars.js-black?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
+![Handlebars.js](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 
 
 ### Data Base
@@ -7055,7 +7054,8 @@
 
 | Most Used Languages                                              | 🔝 Top Contributed Repo                                               |
 | --------------------------------------------------- | --------------------------------------------------- |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jasurhaydarovcode&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) | ![](https://github-contributor-stats.vercel.app/api?username=jasurhaydarovcode&limit=5&theme=radical&combine_all_yearly_contributions=true) |
+| <a href="https://github.com/jasurhaydarovcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasurhaydarovcode&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ | ![](https://github-contributor-stats.vercel.app/api?username=jasurhaydarovcode&limit=5&theme=radical&combine_all_yearly_contributions=true) |
 </details> 
 <!-- PressDown Funcktion END -->
 
