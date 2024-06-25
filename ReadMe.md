@@ -6988,7 +6988,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
 ![Parcel](https://img.shields.io/badge/Parcel-43853D?style=for-the-badge&logo=parcel&logoColor=white)
 
 
@@ -7008,11 +7007,7 @@
 
 ### NodeJs
 
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-![UUID](https://img.shields.io/badge/UUID-ffffff?style=for-the-badge&logo=uuid&logoColor=black)
 ![Handlebars.js](https://img.shields.io/badge/Handlebars-black?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
 
 
