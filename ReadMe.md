@@ -3,7 +3,8 @@
 
 <img src="svg/mind.svg">
 
-# Hi There, I'm <a href="https://github.com/jasurhaydarovcode"> `JASUR` </a>
+<!-- # Hi There, I'm <a href="https://github.com/jasurhaydarovcode"> `JASUR` </a> -->
+<img src="svg/mine.svg">
 
 </div>
 
