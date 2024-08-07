@@ -44,6 +44,10 @@ Hey, HTML homies, what’s up?
 
 
 
+<details>
+    <summary>🗽 Skills:</summary>
+
+# Skills
 
 <div align="center">
 
@@ -56,6 +60,8 @@ Hey, HTML homies, what’s up?
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn,pnpm)](https://skillicons.dev)
 
 </div>
+
+</details>
 
 
 
