@@ -41,3 +41,30 @@ Hey, HTML homies, what’s up?
 | --------------------------------------------------- | --------------------------------------------------- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Zlatmax) |
 </details> 
+
+
+
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,next,git,github)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=pug,sass,tailwind,bootstrap,gulp)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=svg,md,netlify,vercel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,pnpm)](https://skillicons.dev)
+
+</div>
+
+
+
+<details>
+<summary>Favoruite Technologys</summary>
+
+| REACTJS | NEXTJS | TAILWIND CSS |
+|:-------:|:-------:| :------: |
+|<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100">  | <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="95">      | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632979765809/HTEigfQR-.png?auto=compress,format&format=webp" width="140"> |
+
+</details>
+
