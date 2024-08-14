@@ -8,7 +8,7 @@
 Hey, HTML homies, what’s up?
 ```
 
---- 
+---
 
 <!-- <details>
 <summary>🍪 SKILLS:</summary>
@@ -33,16 +33,15 @@ Hey, HTML homies, what’s up?
 
 # Projects
 
-| Project 1                                              | Project 2                                             |
-| --------------------------------------------------- | --------------------------------------------------- |
+| Project 1                                                                                                                                                                                          | Project 2                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Mobile-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Mobile-UI-screens) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=bookers&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/bookers) |
 
-| Project 3                                              | Project 4                                               |
-| --------------------------------------------------- | --------------------------------------------------- |
+| Project 3                                                                                                                                                                        | Project 4                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Zlatmax) |
-</details> 
 
-
+</details>
 
 <details>
     <summary>🗽 Skills:</summary>
@@ -64,13 +63,4 @@ Hey, HTML homies, what’s up?
 </details>
 
 
-
-<details>
-<summary>Favoruite Technologys</summary>
-
-| REACTJS | NEXTJS | TAILWIND CSS |
-|:-------:|:-------:| :------: |
-|<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100">  | <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" width="95">      | <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632979765809/HTEigfQR-.png?auto=compress,format&format=webp" width="140"> |
-
-</details>
-
+<img src="./svg/CatsJuice.svg">
