@@ -52,7 +52,7 @@ Hey, HTML homies, what’s up?
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,next,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=pug,sass,tailwind,bootstrap,gulp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pug,sass,tailwind,bootstrap,gulp,typescript)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=svg,md,netlify,vercel)](https://skillicons.dev)
 
