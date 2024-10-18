@@ -1,6 +1,8 @@
 <div align="center">
 
+<a href="https://github.com/jasurhaydarovcode">
 <img src="svg/mind.svg">
+</a>
 
 </div>
 
@@ -35,11 +37,11 @@ Hey, HTML homies, what’s up?
 
 | Project 1                                                                                                                                                                                          | Project 2                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Mobile-UI-screens&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Mobile-UI-screens) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=bookers&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/bookers) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=GEADEZIST&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=football-stadium-dashboard&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/football-stadium-dashboard) |
 
-| Project 3                                                                                                                                                                        | Project 4                                                                                                                                                                      |
+<!-- | Project 3                                                                                                                                                                        | Project 4                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Zlatmax) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=olcha.uz&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/olcha.uz) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Zlatmax&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Zlatmax) | -->
 
 </details>
 
@@ -50,17 +52,15 @@ Hey, HTML homies, what’s up?
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,next,git,github)]()
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,vite,next,git,pug,sass,tailwind,bootstrap)]()
 
-[![My Skills](https://skillicons.dev/icons?i=pug,sass,tailwind,bootstrap,gulp,typescript)]()
-
-[![My Skills](https://skillicons.dev/icons?i=svg,md,netlify,vercel)]()
-
-[![My Skills](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun)]()
+### Favorite Package Managers
+[![My Skills](https://skillicons.dev/icons?i=npm,bun)]()
 
 </div>
 
 </details>
 
-
+<a href="https://github.com/jasurhaydarovcode">
 <img src="./svg/CatsJuice.svg">
+</a>
