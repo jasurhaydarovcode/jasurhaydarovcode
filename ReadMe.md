@@ -37,7 +37,7 @@ Hey, HTML homies, what’s up?
 
 | Project 1                                                                                                                                                                                          | Project 2                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=GEADEZIST&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=football-stadium-dashboard&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/football-stadium-dashboard) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=GEADEZIST&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=viteconfig.js&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/viteconfig.js) |
 
 <!-- | Project 3                                                                                                                                                                        | Project 4                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -48,19 +48,27 @@ Hey, HTML homies, what’s up?
 <details>
     <summary>🗽 Skills:</summary>
 
-# Skills
+## My main technologies
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,vite,next,git,pug,sass,tailwind,bootstrap)]()
-
-### Favorite Package Managers
-[![My Skills](https://skillicons.dev/icons?i=npm,bun)]()
+[![My Skills](https://skillicons.dev/icons?i=react,js,typescript,git,tailwind,nodejs,express)]()
 
 </div>
 
 </details>
 
+<details>
+    <summary>📊 My Activity:</summary>
+
+## Activity
+
+<div align="center">
+
 <a href="https://github.com/jasurhaydarovcode">
 <img src="./svg/CatsJuice.svg">
 </a>
+
+</div>
+
+</details>
