@@ -52,7 +52,7 @@ Hey, HTML homies, what’s up?
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,vite,next,git,pug,sass,tailwind,bootstrap)]()
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,nodejs,vite,next,git,pug,sass,tailwind,bootstrap)]()
 
 ### Favorite Package Managers
 [![My Skills](https://skillicons.dev/icons?i=npm,bun)]()
