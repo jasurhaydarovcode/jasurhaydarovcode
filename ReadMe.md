@@ -9,7 +9,7 @@
 [![](https://visitcount.itsvg.in/api?id=jasurhaydarovcode&icon=0&color=0)]()
 
 ```html
-Hey, HTML homies, what’s up?
+When you're using useEffect in React, it tells you, 'I will only run once' the first time you use it. But then, it starts running every time the state changes, and you're like, 'I get it now, just stop telling me you'll run only once!' 😆
 ```
 
 # Skils
