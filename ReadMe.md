@@ -37,8 +37,8 @@ When you're using useEffect in React, it tells you, 'I will only run once' the f
 
 # Projects
 
-| Project 1                                                                                                                                                                                          | Project 2                                                                                                                                                                                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Project 1                          | Project 2                                                                                                                                                                                |
+| ---------------------------------------------------- |------------------------------|
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=GEADEZIST&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/GEADEZIST) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=react-mower&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/react-mower) |
-
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasurhaydarovcode&repo=Hemis-Qardu-Edition&theme=ambient_gradient)](https://github.com/jasurhaydarovcode/Hemis-Qardu-Edition) |
 
