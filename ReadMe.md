@@ -43,3 +43,16 @@ No activity tracked
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+
+<!--START_SECTION:followers-list-->
+## ✨ My Followers
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/username1"><img src="https://avatars.githubusercontent.com/u/ID1?v=4" width="100px;" alt=""/><br /><sub><b>Username1</b></sub></a></td>
+    <td align="center"><a href="https://github.com/username2"><img src="https://avatars.githubusercontent.com/u/ID2?v=4" width="100px;" alt=""/><br /><sub><b>Username2</b></sub></a></td>
+    <!-- Boshqalarni qo‘shish -->
+  </tr>
+</table>
+
+<!--END_SECTION:followers-list-->
