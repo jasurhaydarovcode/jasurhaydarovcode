@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   35 mins         ████████▒░░░░░░░░░░░░░░░░   32.78 %
+Other      15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+XAML       15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
+Binary     10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+C#         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
 ```
 
 <!--END_SECTION:waka-->
