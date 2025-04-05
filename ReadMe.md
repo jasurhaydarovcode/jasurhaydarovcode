@@ -11,14 +11,15 @@
 /\__|    /    |    \/        \    |  / |    |   \
 \________\____|__  /_______  /______/  |____|_  /
                  \/        \/                 \/
-
+```
+<!--
    __     ______     ______     __  __     ______     ______     ______     __  __        __  __     ______     __  __     _____     ______     ______     ______     __   __     
   /\ \   /\  __ \   /\  ___\   /\ \/\ \   /\  == \   /\  == \   /\  ___\   /\ \/ /       /\ \_\ \   /\  __ \   /\ \_\ \   /\  __-.  /\  __ \   /\  == \   /\  __ \   /\ \ / /     
  _\_\ \  \ \  __ \  \ \___  \  \ \ \_\ \  \ \  __<   \ \  __<   \ \  __\   \ \  _"-.     \ \  __ \  \ \  __ \  \ \____ \  \ \ \/\ \ \ \  __ \  \ \  __<   \ \ \/\ \  \ \ \'/      
 /\_____\  \ \_\ \_\  \/\_____\  \ \_____\  \ \_\ \_\  \ \_____\  \ \_____\  \ \_\ \_\     \ \_\ \_\  \ \_\ \_\  \/\_____\  \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_____\  \ \__|      
 \/_____/   \/_/\/_/   \/_____/   \/_____/   \/_/ /_/   \/_____/   \/_____/   \/_/\/_/      \/_/\/_/   \/_/\/_/   \/_____/   \/____/   \/_/\/_/   \/_/ /_/   \/_____/   \/_/       
-                                                                                                                                                                                  
-```
+
+-->                                                                                                                                                                              
 
 </div>
 
@@ -37,6 +38,8 @@ Markdown                           45 mins         █▓░░░░░░░�
 ---
 
 <a href="https://www.jasurhaydarovcode.uz/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=jasurhaydarovcode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasurhaydarovcode&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+<!-- ![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=jasurhaydarovcode&hide_title=true&line_height=21&hide_rank=true&include_all_commits=true) -->
 
 ---
 
